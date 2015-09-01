@@ -1,0 +1,26 @@
+{
+    "name": "material-design-lite-snippets",
+    "title": "Material Design Lite Snippets",
+    "description": "A collection of Material Design Lite (MDL) snippets for Brackets.",
+    "homepage": "https://github.com/acbarbosa1964/acb-bootstrap-snippets",
+    "version": "0.0.10",
+    "author": "KVM Studio",
+    "license": "MIT",
+    "categories": "editing",
+    "keywords": [
+        "brackets",
+        "material",
+        "design",
+        "lite",
+        "google",
+        "snippets"
+    ],
+    "files": [
+        "main.js",
+        "snippet.js",
+        "README.md"
+    ],
+    "engines": {
+        "brackets": ">=0.31.3"
+    }
+}
